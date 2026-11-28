@@ -1,0 +1,24 @@
+{
+  "id": "real-world",
+  "name": "小世界",
+  "version": "0.3.1",
+  "description": "给她和你一个专属的小世界：地区内短途、地区间长途都按真实时间走，路上分阶段知道自己在哪；地图预设能存多套随时切换，每个地区自己摆地点（图标、简介、标签、喜好权重），存档按人格各存一份、互不干扰。每晚回访会改写地点描述，也调她对各地的喜好——越喜欢的她越常去，去哪儿由她自己挑；地点会随着她每天的脚步和回访慢慢变样。你想见她，也可以直接邀她出门。",
+  "category": "social",
+  "tags": [
+    "活动范围",
+    "地图",
+    "外出",
+    "行动路径",
+    "作息"
+  ],
+  "author": "YLin55",
+  "license": "MIT",
+  "api": 1,
+  "minPluginVersion": "1.3.0",
+  "requires": [],
+  "capabilities": [
+    "filesystem",
+    "plugin-config",
+    "plugin-internals"
+  ]
+}
